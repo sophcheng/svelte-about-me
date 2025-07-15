@@ -9,19 +9,19 @@
 
   let cardData = [
     {
-      image: "/assets/aiCat 1.png",
+      image: "src/assets/aiCat 1.png",
       title: "Sophware",
       description: "(Software). I've built Swift-based apps and websites!",
       color: "#3AA6B9",
     },
     {
-      image: "/assets/rumi.png",
+      image: "src/assets/rumi.png",
       title: "Drawing",
       description: "I'm familiar with digital, traditional, and doodling!",
       color: "#FFD0D0",
     },
     {
-      image: "/assets/iconAlt.png",
+      image: "src/assets/iconAlt.png",
       title: "Language",
       description:
         "I like learning new languages -- of people, 'puters, puns, and patterns.",
