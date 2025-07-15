@@ -9,19 +9,19 @@
 
   let cardData = [
     {
-      image: "./assets/aiCat 1.png",
+      image: "/assets/aiCat 1.png",
       title: "Sophware",
       description: "(Software). I've built Swift-based apps and websites!",
       color: "#3AA6B9",
     },
     {
-      image: "./assets/rumi.png",
+      image: "/assets/rumi.png",
       title: "Drawing",
       description: "I'm familiar with digital, traditional, and doodling!",
       color: "#FFD0D0",
     },
     {
-      image: "./assets/iconAlt.png",
+      image: "/assets/iconAlt.png",
       title: "Language",
       description:
         "I like learning new languages -- of people, 'puters, puns, and patterns.",
@@ -31,24 +31,26 @@
 
   let funData = [
     {
-      image: "./assets/meowfficial.png",
+      image: "/assets/meowfficial.png",
       title: "Meow",
       description:
         "I once built an app demonstrating the effects of AI on our cultural and physical climate using cats.",
     },
     {
-      image: "./assets/icon.png",
+      image: "/assets/icon.png",
       title: "Misfortune",
       description:
         "I stayed overnight at a jail once, because there were no vacant hotels that night (due to a local poker competition).",
     },
     {
-      image: "./assets/jinu.png",
+      image: "/assets/jinu.png",
       title: "Muse",
       description: "I am in K-Pop Demon Hunters jail right now. #FREEJINU",
     },
   ];
 </script>
+
+<base href="/svelte-about-me/" />
 
 <div class="container">
   <h1>Hello, World!</h1>
