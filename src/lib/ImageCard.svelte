@@ -52,7 +52,6 @@
     }
 
     .card-content {
-        
         padding: 5px;
     }
 
@@ -113,7 +112,7 @@
         position: absolute;
         top: -15px;
         left: 150px;
-        z-index: -1;
+        z-index: 0;
         border-style: none;
         border-radius: 10px 10px 0 0;
     }
